@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -N hello_multicore
+#PBS -l select=1:ncpus=2:mem=4gb
+#PBS -l walltime=00:10:00
+#PBS -j oe
+#PBS -o output_multicore.log
+
+# Go to submission directory
+cd $PBS_O_WORKDIR
+
+# Run script with 2 cores
+python hello_compute.py multicore 2

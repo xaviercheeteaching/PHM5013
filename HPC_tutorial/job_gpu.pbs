@@ -1,0 +1,17 @@
+#!/bin/bash
+#PBS -N hello_gpu
+#PBS -l select=1:ncpus=1:mem=4gb:ngpus=1
+#PBS -l walltime=00:10:00
+#PBS -j oe
+#PBS -o output_gpu.log
+
+# Load Python module
+source /app1/ebenv
+source ~/hpc_tutorial/bin/activate
+module load cuda12.4/toolkit/12.4.1
+
+# Go to submission directory
+cd $PBS_O_WORKDIR
+
+# Run script with GPU
+python hello_compute.py gpu
