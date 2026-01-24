@@ -2,10 +2,11 @@ Compound Name,SMILES,Activity
 Imatinib,CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5cccnc5)c3,Active
 Nilotinib,Cc1cn(c2cc(C(F)(F)F)cc(c2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5cccnc5)c3)cn1,Active
 Dasatinib,CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO,Active
-Ponatinib,Cc1ccc(cc1)C#Cc2cnc3n2nc(c3)c4ccc(C)c(Nc5cc(C(F)(F)F)c(cc5)C(=O)N6CCN(C)CC6)c4,Active
+Ponatinib,CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CN=C5N4N=CC=C5,Active
 Bafetinib,CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3cc(C(F)(F)F)c(Nc4nccc(n4)c5cncnc5)cc3,Active
 N-Methyl-Anilino Imatinib,CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3ccc(C)c(N(C)c4nccc(n4)c5cccnc5)c3,Inactive
 Des-Pyridyl Imatinib,CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5ccccc5)c3,Inactive
 Gefitinib,COC1=C(OCCCN2CCOCC2)C=C3C(=C1)N=CN=C3NC4=CC(=C(C=C4)F)Cl,Inactive
 Erlotinib,COCCOC1=C(C=C2C(=C1)N=CN=C2NC3=CC=CC(=C3)C#C)OCCOC,Inactive
 Vemurafenib,CCcS(=O)(=O)c1cc(c(cc1F)C(=O)c2c[nH]c3c2cc(cn3)c4ccc(cc4)Cl)F,Inactive
+
