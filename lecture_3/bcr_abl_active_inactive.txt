@@ -8,5 +8,6 @@ N-Methyl-Anilino Imatinib,CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3ccc(C)c(N(C)c4nccc(n4)c5
 Des-Pyridyl Imatinib,CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5ccccc5)c3,Inactive
 Gefitinib,COC1=C(OCCCN2CCOCC2)C=C3C(=C1)N=CN=C3NC4=CC(=C(C=C4)F)Cl,Inactive
 Erlotinib,COCCOC1=C(C=C2C(=C1)N=CN=C2NC3=CC=CC(=C3)C#C)OCCOC,Inactive
-Vemurafenib,CCcS(=O)(=O)c1cc(c(cc1F)C(=O)c2c[nH]c3c2cc(cn3)c4ccc(cc4)Cl)F,Inactive
+Vemurafenib,CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F,Inactive
+
 
