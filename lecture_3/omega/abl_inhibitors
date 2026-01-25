@@ -1,0 +1,10 @@
+CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5cccnc5)c3 Imatinib
+Cc1cn(c2cc(C(F)(F)F)cc(c2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5cccnc5)c3)cn1 Nilotinib
+CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO Dasatinib
+CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CN=C5N4N=CC=C5 Ponatinib
+CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3cc(C(F)(F)F)c(Nc4nccc(n4)c5cncnc5)cc3 Bafetinib
+CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3ccc(C)c(N(C)c4nccc(n4)c5cccnc5)c3 N-Methyl-Anilino Imatinib
+CN1CCN(CC1)Cc2ccc(cc2)C(=O)Nc3ccc(C)c(Nc4nccc(n4)c5ccccc5)c3 Des-Pyridyl Imatinib
+COC1=C(OCCCN2CCOCC2)C=C3C(=C1)N=CN=C3NC4=CC(=C(C=C4)F)Cl Gefitinib
+COCCOC1=C(C=C2C(=C1)N=CN=C2NC3=CC=CC(=C3)C#C)OCCOC Erlotinib
+CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F Vemurafenib
